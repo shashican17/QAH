@@ -2,9 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:quick_action_against_harassment/Login.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 
-const supabaseUrl = 'https://zbezdqhhdyppyzoxkuau.supabase.co';
-const supabaseKey =
-    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpiZXpkcWhoZHlwcHl6b3hrdWF1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTE1NTkzNTYsImV4cCI6MjAyNzEzNTM1Nn0.T6RLVw5DsfFqrrsxenIb6fGPlkDCljHg0caj81wNTbE';
+const supabaseUrl = '';
+const supabaseKey ='';
 
 void main() {
   Supabase.initialize(
