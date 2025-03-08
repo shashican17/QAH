@@ -32,8 +32,8 @@ A Flutter-based mobile application using Supabase for backend services, designed
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/quick-response-app.git
-   cd quick-response-app
+   git clone https://github.com/shashican17/QAH.git
+   cd QAH
    ```
 
 2. **Install dependencies**
@@ -59,23 +59,3 @@ A Flutter-based mobile application using Supabase for backend services, designed
 [![Watch the Video](https://img.youtube.com/vi/your_video_id/0.jpg)](https://github.com/user-attachments/assets/2d3c576d-8949-4943-b8d2-e04fa4abd959)
 ### Demo of Police side application
 [![Watch the Video](https://img.youtube.com/vi/your_video_id/0.jpg)](https://github.com/user-attachments/assets/612020f7-8297-44ff-bc7d-a39d1a882865)
-
-
-## 📝 Future Improvements
-
-- Push Notifications for SOS Alerts
-- AI-based threat detection
-- Multi-language support
-- Cloud storage for recorded videos
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork this repository and submit a pull request.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-> Built with ❤️ using Flutter & Supabase
-
